@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+nav {
+	display: flex;
+	color: white;
+	flex-direction: row;
+	justify-content: space-between;
+	background: #99cc33;
+	padding: 10px 40px;
+}
+
+.logo {
+	font-size: 30px;
+	font-weight: bold;
+	cursor: pointer;
+}
